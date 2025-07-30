@@ -18,13 +18,13 @@
 
 ### 🌐 Where to Find Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://woof.tech/@nonbinarybyte" target="_blank">
   <img alt="Mastodon" height="30" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg#gh-dark-mode-only" />
 </a>&nbsp;&nbsp;
 
-<a href="https://instagram.com/nonbinarybyte" target="_blank">
+<a href="https://instagram.com/bvnnqguts" target="_blank">
   <img alt="Instagram" height="30" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
 </a>&nbsp;&nbsp;
 
