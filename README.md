@@ -1,7 +1,10 @@
 # 💫About Me :
 Age: 17
+
 Pronouns: He/They
+
 Name: Kenny Thomas-Moore
+
 My Dream Project: my own linux distrobution
 
 ## 🌐Socials
