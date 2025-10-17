@@ -7,7 +7,7 @@ I'm Kenny, a Web Developer from the USA. I am 17 y/o and I specialize in  webdev
 [![My Skills](https://skillicons.dev/icons?i=html,php,rust,css,js,py,mysql,github,git,tailwind,bootstrap,cpp,c,discordjs,linux,md,obsidian&perline=8)](https://skillicons.dev)
 ## Latest Blog Posts
 
-Come see my blog @ https://kenny914.github.io/blog/
+Come see my blog @ https://penne.blog
 
 ## Consider supporting my work!
 
